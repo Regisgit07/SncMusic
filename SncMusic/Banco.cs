@@ -19,5 +19,15 @@ namespace SncMusic
             return comm;
         }
     }
-
 }
+
+public static void Fechar()
+{
+
+    
+}   
+
+        
+         
+            
+
